@@ -11,6 +11,6 @@ Vape Lite works on Vanila/Forge 1.8.9 and 1.7.10, CB (offline), Lunar, BLC, Laby
 # Vape Lite Preview
 ![image](https://user-images.githubusercontent.com/74628243/113896709-3120fa00-9798-11eb-8d3b-e39d022f48cc.png)
 
-# Instalation
+# Installation
 Included is the source code for each program dlls, and patcher. Compile it yourself and drag the program into the patcher.
 You may also use the release and do the same thing if you feel comfortable.
